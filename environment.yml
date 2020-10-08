@@ -1,0 +1,12 @@
+name: sportclassifier
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch
+  - anaconda
+  - fastai
+  - gh
+  - jupyterlab
+  - voila
+prefix: /Users/simonhelmig/anaconda3/envs/sportclassifier
